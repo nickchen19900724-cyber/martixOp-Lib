@@ -16,5 +16,5 @@ void mat_print(int A[SIZE][SIZE]);
 void mat_print_double(double A[SIZE][SIZE]);
   
 
-
+ 
 #endif
